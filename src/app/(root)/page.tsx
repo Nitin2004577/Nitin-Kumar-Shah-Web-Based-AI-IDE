@@ -4,7 +4,7 @@ import { ArrowUpRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 export default function Home() {
-   
+    
   return (
     <div className=" z-20 flex flex-col items-center justify-start min-h-screen py-2 mt-10">
       
@@ -23,7 +23,7 @@ export default function Home() {
         It is designed to help you write, debug, and optimize your code
         efficiently.
       </p>
-      <Link href={"/dashboard"}>
+      <Link href={"/auth/sign-in"}>
         <Button variant={"brand"} className="mb-4" size={"lg"}>
           Get Started
           <ArrowUpRight className="w-3.5 h-3.5" />
