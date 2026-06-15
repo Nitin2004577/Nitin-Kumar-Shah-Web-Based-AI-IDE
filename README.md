@@ -4,21 +4,9 @@ A full-stack web application that provides an AI-assisted code development envir
 
 ## 🚀 Live Demo
 
-Visit the live application: [CodeForge](#) *(Add your deployment link here)*
+Coming soon...
 
-## 📸 Screenshots
 
-### Main Playground Interface
-![Playground](./docs/screenshots/playground.png)
-
-### Code Editor with AI Suggestions
-![AI Suggestions](./docs/screenshots/ai-suggestions.png)
-
-### GitHub Integration & Push
-![GitHub Push](./docs/screenshots/github-push.png)
-
-### Dashboard & Project Management
-![Dashboard](./docs/screenshots/dashboard.png)
 
 ## ✨ Key Features
 
