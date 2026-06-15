@@ -69,8 +69,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CodeForge.git
-cd CodeForge
+git clone https://github.com/Nitin2004577/Nitin-Kumar-Shah-CodeForge.git
+cd Nitin-Kumar-Shah-CodeForge
 ```
 
 ### 2. Install Dependencies
@@ -198,6 +198,14 @@ npm run test:watch       # Run tests in watch mode
 3. Set Authorization callback URL to `http://localhost:3000/api/auth/callback/github`
 4. Copy Client ID and Client Secret to `.env.local`
 
+### Suggested LinkedIn Headline
+
+```
+Full Stack Developer | Next.js | React | TypeScript | Node.js | PostgreSQL | AI Integration
+```
+
+This headline highlights your full-stack capabilities and core technologies used in CodeForge.
+
 ### Google OAuth Setup (Optional)
 
 1. Go to Google Cloud Console
@@ -320,9 +328,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact & Support
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **GitHub**: [@Nitin2004577](https://github.com/Nitin2004577)
+- **Email**: shahnitin500@gmail.com
+- **LinkedIn**: [Nitin Kumar Shah](https://www.linkedin.com/in/nitin-kumar-shah/)
 
 ## 🎯 Portfolio Highlights
 
